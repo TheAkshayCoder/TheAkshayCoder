@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheAkshayCoder
 - 👀 I’m interested in Frontend job/internship
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Reactjs and javaScript
 - 💞️ I’m looking to collaborate on some project based on reactjs
 - 📫 How to reach me --- thakurkakshay8375@gmail.com
 
